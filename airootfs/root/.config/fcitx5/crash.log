@@ -1,0 +1,28 @@
+=========================
+Fcitx 5.0.21 -- Get Signal No.: 6
+Date: try "date -d @1672810199" if you are using GNU date ***
+ProcessID: 345909
+fcitx5(+0x12e4c)[0x55a22df6de4c]
+/usr/lib/libc.so.6(+0x38a00)[0x7fbad4051a00]
+/usr/lib/libc.so.6(+0x8864c)[0x7fbad40a164c]
+/usr/lib/libc.so.6(gsignal+0x18)[0x7fbad4051958]
+/usr/lib/libc.so.6(abort+0xd7)[0x7fbad403b53d]
+/usr/lib/libc.so.6(+0x7c7ee)[0x7fbad40957ee]
+/usr/lib/libc.so.6(+0x923dc)[0x7fbad40ab3dc]
+/usr/lib/libc.so.6(+0x9266c)[0x7fbad40ab66c]
+/usr/lib/libc.so.6(__libc_free+0xba)[0x7fbad40afbea]
+/usr/lib/libcurl.so.4(+0x5f155)[0x7fbad00f8155]
+/usr/lib/libcurl.so.4(+0x475b0)[0x7fbad00e05b0]
+/usr/lib/libcurl.so.4(+0x4a73c)[0x7fbad00e373c]
+/usr/lib/libcurl.so.4(curl_multi_socket_action+0x1f)[0x7fbad00e38ef]
+/usr/lib/fcitx5/libcloudpinyin.so(+0xd0b2)[0x7fbad12680b2]
+/usr/lib/libFcitx5Utils.so.2(+0x3e5a3)[0x7fbad463c5a3]
+/usr/lib/libsystemd.so.0(+0x7e884)[0x7fbad44f0884]
+/usr/lib/libsystemd.so.0(sd_event_dispatch+0x116)[0x7fbad44f0a66]
+/usr/lib/libsystemd.so.0(sd_event_run+0x119)[0x7fbad44f1f99]
+/usr/lib/libsystemd.so.0(sd_event_loop+0x60)[0x7fbad44f2170]
+/usr/lib/libFcitx5Utils.so.2(_ZN5fcitx9EventLoop4execEv+0x16)[0x7fbad463ad46]
+/usr/lib/fcitx5/libcloudpinyin.so(+0xc822)[0x7fbad1267822]
+/usr/lib/libstdc++.so.6(+0xd62f3)[0x7fbad42d62f3]
+/usr/lib/libc.so.6(+0x868fd)[0x7fbad409f8fd]
+/usr/lib/libc.so.6(+0x108a60)[0x7fbad4121a60]
