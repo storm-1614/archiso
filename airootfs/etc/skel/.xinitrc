@@ -6,6 +6,8 @@ QT_IM_MODULE=fcitx
 XMODIFIERS=@im=fcitx
 SDL_IM_MODULE=fcitx
 GLFW_IM_MODULE=ibus
+
+xfconf-query -c xfce4-desktop -p /backdrop/screen0/monitor0/workspace0/last-image -s ~/1.jpg
 # fix broken $UID on some system...
 if test "x$UID" = "x"; then
   if test -x /usr/xpg4/bin/id; then
